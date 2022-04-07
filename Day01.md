@@ -2,4 +2,4 @@
 
 > 매일 배운 것을 작성합니다
 
-5 1일차 : CLI, Vscode, Markdown, Git 기초, Github
+1일차 : CLI, Vscode, Markdown, Git 기초, Github
